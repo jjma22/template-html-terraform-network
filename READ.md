@@ -1,0 +1,1 @@
+Basic html file to be used as a template in a production ready network created using Terraform and Nginx as the web server.
